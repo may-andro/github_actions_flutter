@@ -1,16 +1,46 @@
 # github_actions
 
-A new Flutter project.
+A new Flutter project to demonstrate the github actions for a typical firebase project.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+[Job for unit test](#job-for-unit-test)
+[Job for build android](#job-for-build-android)
+[Job for build ios](#job-for-build-ios)
+[Job for build release artifact](#job-for-build-release-artifact)
+[Job for upload to stores ](#job-for-upload-to-stores )
+[Job for upload to firebase](#job-for-upload-to-firebase)
+[Workflow for test](#workflow-for-test)
+[Workflow for release production](#workflow-for-release-production)
+[Workflow for release review](#workflow-for-release-review)
+[Workflow for cron jobs](#workflow-for-cron-jobs)
 
-A few resources to get you started if this is your first Flutter project:
+## Job for unit test
+TODO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Job for build android
+TODO
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Job for build ios
+TODO
+
+## Job for build release artifact
+TODO
+
+## Job for upload to stores 
+TODO
+
+## Job for upload to firebase
+TODO
+
+## Workflow for test
+TODO
+
+## Workflow for release production
+TODO
+
+## Workflow for release review
+TODO
+
+## Workflow for cron jobs
+TODO
